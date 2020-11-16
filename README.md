@@ -1,9 +1,9 @@
 # pf1
 Programming Fundamentals 1
 
-This is an <h1> tag
-This is an <h2> tag
-This is an <h6> tag
+<h1> This is a tag
+<h2> This is a tag
+<h6> This is a tag
 
 * Item 1
 * Item 2
